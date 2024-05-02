@@ -212,7 +212,7 @@ export default {
           Trojan: "trojan",
           Surge3: "surge&ver=3",
         },
-        backendOptions: [{ value: "http://sub.zsgoop.top/sub?" }],
+        backendOptions: [{ value: "https://sub.zsgoop.top/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
