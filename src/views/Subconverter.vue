@@ -223,6 +223,11 @@ export default {
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
+                label: "不良人",
+                value:
+                  "https://raw.githubusercontent.com/bulianglin/demo/main/nodnsleak.ini"
+              },
+              {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告 (与 Github 同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
